@@ -12,10 +12,6 @@ tests/coverage/
 # Ignore PHPUnit result cache
 .phpunit.result.cache
 
-# Ignore PHPUnit config files
-phpunit.xml
-phpunit.xml.dist
-
 # Ignore PHPStan cache
 /phpstan.cache
 
