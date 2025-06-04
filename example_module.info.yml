@@ -1,0 +1,5 @@
+name = example_module
+type = module
+description = 'Example custom module for Drupal 11 with tests.'
+core_version_requirement = ^10
+package = Custom
